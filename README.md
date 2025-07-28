@@ -1,5 +1,6 @@
 # 💫 Sobre Mí:
 <div align="center">
+
 ### 📊 Actividad Semanal
 <div align="center">
   
