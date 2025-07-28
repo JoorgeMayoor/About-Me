@@ -107,8 +107,6 @@ class SobreJorge:
 ---
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=tu-usuario&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
 *Si mi código te ayudó, ¡invítame un café!*
 
 <a href="https://www.buymeacoffee.com/joorgemayoor" target="_blank">
