@@ -72,7 +72,7 @@ class Jorge {
 - Fundamentos de programación 💻
 - Desarrollo de plugins para Minecraft 🎮
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" /> Mis Pasiones
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" /> Mis Gustos
 
 <div align="center">
 
