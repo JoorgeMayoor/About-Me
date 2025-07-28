@@ -70,33 +70,74 @@ class Jorge {
 - Fundamentos de programación 💻
 - Desarrollo de plugins para Minecraft 🎮
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" /> Mis Universos Favoritos
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" /> Mis Pasiones
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNkOGI4NzI3YjQ1ZGFjOGY0ZjZlZGNhODU1YTM4YzE2YmNhODRjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l1uguGf2RVvRKZmwM/giphy.gif" />
-<h3>⭐ Star Wars</h3>
-<p><i>"Que la fuerza te acompañe"</i></p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="60" />
+<br>
+<strong>Star Wars</strong>
+<br>
+<sub>Saga favorita</sub>
 </td>
-<td width="50%">
-<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhhMjJ1dXk2bGkzd24zMmk3YWRpd2t0dnp2djU2MGx3dnVnMHY3cyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif" />
-<h3>🎮 Gaming</h3>
-<p><i>Minecraft & más aventuras</i></p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" width="60" />
+<br>
+<strong>Gaming</strong>
+<br>
+<sub>Minecraft & más</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" width="60" />
+<br>
+<strong>Anime</strong>
+<br>
+<sub>Mundos infinitos</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon.png" width="60" />
+<br>
+<strong>Pokémon</strong>
+<br>
+<sub>Entrenador por siempre</sub>
 </td>
 </tr>
+</table>
+
+<br>
+
+<table>
 <tr>
-<td width="50%">
-<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwbm80d3I3Y3p0NzR0MmY3cjBiOHBneWJyY3Zrc2l5bW1lNWt0eCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPfLwbxmz4XwgnS/giphy.gif" />
-<h3>🎌 Anime</h3>
-<p><i>Explorando nuevos mundos</i></p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="60" />
+<br>
+<strong>Tecnología</strong>
+<br>
+<sub>Mi pasión diaria</sub>
 </td>
-<td width="50%">
-<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk2dDd6OHdnM3ZwOGkxbDY3a2t4ZDd2aHl6dGk4YnJvamFvZGYyaiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vsyKKf1t22nmw/giphy.gif" />
-<h3>🐉 Pokémon</h3>
-<p><i>¡Hazte con todos!</i></p>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="60" />
+<br>
+<strong>Fotografía</strong>
+<br>
+<sub>Capturando momentos</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Film%20Projector.png" width="60" />
+<br>
+<strong>Edición</strong>
+<br>
+<sub>Creando contenido</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="60" />
+<br>
+<strong>Perros</strong>
+<br>
+<sub>Próximamente...</sub>
 </td>
 </tr>
 </table>
