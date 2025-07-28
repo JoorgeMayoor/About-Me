@@ -1,119 +1,138 @@
 <div align="center">
-  
-```txt
-     ╔══════════════════════════════════════════╗
-     ║         Bienvenido a mi Mundo            ║
-     ╚══════════════════════════════════════════╝
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="150" />
+
+```ascii
+╭──────────────────────────────────────╮
+│     > Hello World! Soy Jorge <       │
+│   Estudiante & Tech Enthusiast       │
+╰──────────────────────────────────────╯
 ```
 
 </div>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-https : //profile-counter.glitch.me/JoorgeMayoor/count.svg
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&lines=Aprendiz+de+Desarrollo;Amante+de+la+Tecnolog%C3%ADa;Gamer+de+Coraz%C3%B3n)](https://git.io/typing-svg)
+
 </div>
 
-# Hola, soy Jorge! 👋
-
-> *"El código es poesía escrita en lógica"*
-
-Soy un joven desarrollador y creador de contenido que vive en el fascinante mundo de la tecnología. Mi viaje comenzó con una simple línea de código, y desde entonces no he parado de explorar y crear.
-
-## 🎯 Mi Historia
+## 👨‍💻 Sobre Mí
 
 ```python
-class SobreJorge:
+class Jorge:
     def __init__(self):
-        self.nombre = "Jorge"
-        self.rol = "Desarrollador & Creador de Contenido"
-        self.lenguaje_favorito = "Python 🐍"
-        self.proyecto_actual = "Bot de Telegram"
-        self.aprendiendo = ["Automatización", "Desarrollo de Bots", "Edición de Video"]
-        self.hobbies = ["Gaming", "Fotografía", "Edición de Videos"]
-
-    def saludar(self):
-        print("¡Gracias por visitar mi perfil!")
+        self.sobre_mi = {
+            "tipo": "Estudiante de Informática",
+            "pasiones": ["Tecnología", "Gaming", "Anime"],
+            "personalidad": ["Tranquilo", "Serio", "Reflexivo"],
+            "próximamente": "FP de Informática",
+            "sueño_actual": "Tener un perro 🐕"
+        }
+        
+    def intereses_tech(self):
+        return [
+            "🐳 Docker",
+            "🎮 Servidores de Minecraft",
+            "⌨️ Terminal",
+            "🔧 Sistemas"
+        ]
+    
+    def universos_favoritos(self):
+        return [
+            "⭐ Star Wars",
+            "🎌 Anime",
+            "🐉 Pokémon"
+        ]
 ```
 
-## 🛠️ Mi Caja de Herramientas
+## 🚀 Mi Viaje Tech
 
-### Desarrollo
-```txt
-📌 Python     ⭐⭐⭐⭐
-📌 Git/GitHub ⭐⭐⭐
-📌 Markdown   ⭐⭐⭐⭐
-📌 VSCode     ⭐⭐⭐⭐
-```
-
-### Creación de Contenido
-```txt
-🎨 Adobe Premiere Pro ⭐⭐⭐⭐
-🎨 Adobe Lightroom   ⭐⭐⭐
-🎨 Photoshop        ⭐⭐⭐
-🎨 Blender          ⭐⭐
-🎨 Aseprite         ⭐⭐⭐
-```
-
-### Streaming & Gaming
-```txt
-🎮 OBS Studio  ⭐⭐⭐⭐
-🎮 Discord     ⭐⭐⭐⭐
-🎮 Twitch      ⭐⭐⭐
-```
-
-## 🌐 Encuéntrame En
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/bykhork-%23bc2a8d.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black)](https://instagram.com/bykhork)
-[![TikTok](https://img.shields.io/badge/bykhork-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white&labelColor=black)](https://tiktok.com/@bykhork)
-[![Twitch](https://img.shields.io/badge/bykhork-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white&labelColor=black)](https://twitch.tv/bykhork)
-[![YouTube](https://img.shields.io/badge/Jorge23__YT-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=black)](https://youtube.com/@Jorge23_YT)
+```mermaid
+graph LR
+    A[Curiosidad] --> B[Experimentación]
+    B --> C[Aprendizaje]
+    C --> D[Crecimiento]
+    D --> A
+```
 
 </div>
 
-## 📊 Mi Viaje en GitHub
+## 🛠️ Tecnologías que Exploro
 
 <div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=J0rge23YT&theme=midnight-purple&border=7536B2&stroke=9243DD&ring=9243DD&fire=DD2727&currStreakNum=DD9C39&currStreakLabel=DD9C39&dates=A42EE5)](https://git.io/streak-stats)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-%23000000.svg?style=for-the-badge&logo=minecraft&logoColor=brightgreen)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## 🎮 Proyectos Destacados
+## 🎮 Gaming & Entretenimiento
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" width="50" alt="Gaming"/>
+      <br>Gaming
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="50" alt="Star Wars"/>
+      <br>Star Wars
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" width="50" alt="Anime"/>
+      <br>Anime
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon.png" width="50" alt="Pokemon"/>
+      <br>Pokémon
+    </td>
+  </tr>
+</table>
+
+## 📚 Actualmente Aprendiendo
+
+- 📘 Fundamentos de Programación
+- 🐳 Containerización con Docker
+- 🖥️ Administración de Servidores
+- 🎮 Desarrollo de Servidores de Minecraft
+
+## 💭 Pensamientos
+
+> *"La tecnología es más divertida cuando experimentas y aprendes por tu cuenta"*
+
+## 🌟 Objetivos Próximos
 
 ```txt
-🤖 Bot de Telegram Multifunción
-   └── Un asistente personal programado en Python
-
-🎥 Sistema de Edición Automatizada
-   └── Scripts para optimizar mi flujo de trabajo en edición
-
-🎮 Streams Interactivos
-   └── Configuración personalizada de OBS para streams únicos
+📚 Comenzar mi FP de Informática
+🐕 Adoptar un compañero canino
+🎮 Crear mi propio servidor de Minecraft
+💻 Desarrollar proyectos personales
 ```
 
-## 💭 Pensamientos Random
+## 🎯 Fun Facts
 
-> *A veces el mejor debugger es un buen descanso y una taza de café* ☕
-
-## 📌 Datos Curiosos
-
-- 🎮 Gamer desde que tengo memoria
-- 🤖 Fascinado por la automatización
-- 📸 Amante de la fotografía
-- 🎥 Editor de videos por pasión
-- 💻 Programador por vocación
-- ❤️ Afortunado de tener una novia que apoya mi pasión por la tecnología
+- 🐕 Próximamente: ¡Dueño de un perro!
+- 🎮 Jugador desde siempre
+- 🌟 Fan de Star Wars
+- 📺 Otaku de corazón
+- 🤔 Persona reflexiva
+- 💡 Aprendiz autodidacta
 
 ---
+
 <div align="center">
-
-*Si mi código te ayudó, ¡invítame un café!*
-
-<a href="https://www.buymeacoffee.com/joorgemayoor" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="40px">
-</a>
-
-< Código con ❤️ por @JoorgeMayoor > 
-
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog.png" alt="Future Dog" width="60" />
+  <br>
+  <sub>A la espera de mi futuro compañero de aventuras 🐾</sub>
+  
+  <br>
+  <br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=JoorgeMayoor&color=brightgreen&style=flat-square)
+  
 </div>
