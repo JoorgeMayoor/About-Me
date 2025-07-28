@@ -115,10 +115,9 @@ class SobreJorge:
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="40px">
 </a>
 
-```txt
+
      ╔══════════════════════════════════════════╗
      ║    < Código con ❤️ por @JoorgeMayoor >    ║
      ╚══════════════════════════════════════════╝
-```
 
 </div>
