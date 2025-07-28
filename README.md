@@ -74,7 +74,7 @@ class Jorge {
 
 <div align="center">
   
-| ![Star Wars](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRkcmtrNmh3MnlvMWw0Z2UyNHZ1cTdrNGNnNTZxZmhnM3U1M3o4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FZqAOn4hzGO4/giphy.gif) | ![Gaming](https://media1.giphy.com/media/UYt81fD5E8JVu/giphy.gif) | ![Anime](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJzOGhnaHFndGRvc3VuM3R5YjRtc3gwOGlvMXpsM3NqcHRoaGRxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif) | ![Pokemon](https://media4.giphy.com/media/W04QVzelTHsNW/giphy.gif) |
+| ![Star Wars](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9hMjk3cnpjM3U0cmwzczdpM2VtMDJlcHhoeDFpY3ljZGNjMzBkcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/voKRB2g96S8q4/giphy.gif) | ![Gaming](https://media1.giphy.com/media/UYt81fD5E8JVu/giphy.gif) | ![Anime](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJzOGhnaHFndGRvc3VuM3R5YjRtc3gwOGlvMXpsM3NqcHRoaGRxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif) | ![Pokemon](https://media4.giphy.com/media/W04QVzelTHsNW/giphy.gif) |
 |:---:|:---:|:---:|:---:|
 | Star Wars | Gaming | Anime | Pokémon |
 
