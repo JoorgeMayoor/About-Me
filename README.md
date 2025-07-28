@@ -70,13 +70,36 @@ class Jorge {
 - Fundamentos de programación 💻
 - Desarrollo de plugins para Minecraft 🎮
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" /> Pasiones
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Video Game" width="35" /> Mis Universos Favoritos
 
 <div align="center">
-  
-| ![Star Wars](https://media0.giphy.com/media/3o7abBAEIlO4kWucQ8/giphy.gif) | ![Gaming](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGEzdzJ0Nmg1bm1namE5NGx0OWJwdWZwa3hnNThsbm9vcXIyMm1ybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y0NFayaBeiWEU/giphy.gif) | ![Anime](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJzOGhnaHFndGRvc3VuM3R5YjRtc3gwOGlvMXpsM3NqcHRoaGRxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif) | ![Pokemon](https://media4.giphy.com/media/W04QVzelTHsNW/giphy.gif) |
-|:---:|:---:|:---:|:---:|
-| Star Wars | Gaming | Anime | Pokémon |
+
+<table>
+<tr>
+<td width="50%">
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNkOGI4NzI3YjQ1ZGFjOGY0ZjZlZGNhODU1YTM4YzE2YmNhODRjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l1uguGf2RVvRKZmwM/giphy.gif" />
+<h3>⭐ Star Wars</h3>
+<p><i>"Que la fuerza te acompañe"</i></p>
+</td>
+<td width="50%">
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhhMjJ1dXk2bGkzd24zMmk3YWRpd2t0dnp2djU2MGx3dnVnMHY3cyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13HgwGsXF0aiGY/giphy.gif" />
+<h3>🎮 Gaming</h3>
+<p><i>Minecraft & más aventuras</i></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDkwbm80d3I3Y3p0NzR0MmY3cjBiOHBneWJyY3Zrc2l5bW1lNWt0eCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPfLwbxmz4XwgnS/giphy.gif" />
+<h3>🎌 Anime</h3>
+<p><i>Explorando nuevos mundos</i></p>
+</td>
+<td width="50%">
+<img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHk2dDd6OHdnM3ZwOGkxbDY3a2t4ZDd2aHl6dGk4YnJvamFvZGYyaiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vsyKKf1t22nmw/giphy.gif" />
+<h3>🐉 Pokémon</h3>
+<p><i>¡Hazte con todos!</i></p>
+</td>
+</tr>
+</table>
 
 </div>
 
