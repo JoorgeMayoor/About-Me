@@ -24,13 +24,6 @@
   <img src="https://img.shields.io/github/stars/JoorgeMayoor?label=Estrellas&style=social" alt="stars">
 </div>
 
-<p align="center">
-  Hecho con ❤️ por Jorge | Última actualización: Julio 2025<br>
-  <sub>¿Encontraste un bug? ¡Crea un issue!</sub>
-</p>
-
-<!-- Creado con amor usando GitHub Profile README Generator y personalizado manualmente -->ion=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=¡Hola!+👋+Soy+Jorge;Desarrollador+%7C+Creador+de+Contenido;Entusiasta+de+la+Tecnología" alt="Typing SVG" />
-</div>
 
 <p align="center">
   <em>Desarrollador Junior, Creador de Contenido & Entusiasta de la Tecnología</em>
