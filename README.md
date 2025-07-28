@@ -80,9 +80,6 @@ class Jorge {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" /> GitHub Stats
-
-
 <div align="center">
 
   ![Visitas](https://komarev.com/ghpvc/?username=JoorgeMayoor&style=for-the-badge&color=7520FF)
