@@ -1,23 +1,9 @@
 # 💫 Sobre Mí:
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?### 📺 Últimos Videos de YouTube
-<div align="center">
-<!-- YOUTUBE:START -->
-<!-- Agrega tus últimos videos de YouTube manualmente o usando GitHub Actions -->
-<!-- YOUTUBE:END -->
-</div>
-
 ### 📊 Actividad Semanal
 <div align="center">
   
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoorgeMayoor&theme=tokyonight&hide_border=false)
-
-</div>
-
-### 🎵 Spotify
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tu-usuario&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=tu-usuario&redirect=true)
 
 </div>
 
