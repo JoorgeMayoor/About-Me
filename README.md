@@ -3,8 +3,10 @@
   
 # ¡Hey! Soy Jorge 👋
 
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=32C146&random=false&width=435&lines=Estudiante+%F0%9F%92%BB;Gamer+%F0%9F%8E%AE;Entusiasta+de+la+tecnolog%C3%ADa+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+</div>
 </div>
 
 ### 🎯 ¿Quién soy?
