@@ -42,7 +42,7 @@ class Jorge {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> Proyectos en Desarrollo
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Floppy%20disk/3D/floppy_disk_3d.png" alt="Rocket" width="35" /> Proyectos en Desarrollo
 
 <div align="center">
 <table>
