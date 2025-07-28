@@ -10,6 +10,7 @@
 
 <div align="center">
   <img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
+https : //profile-counter.glitch.me/JoorgeMayoor/count.svg
 </div>
 
 # Hola, soy Jorge! 👋
