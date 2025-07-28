@@ -10,7 +10,7 @@
 ### 📊 Actividad Semanal
 <div align="center">
   
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=J0rge23YT&theme=tokyonight&hide_border=false)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JoorgeMayoor&theme=tokyonight&hide_border=false)
 
 </div>
 
