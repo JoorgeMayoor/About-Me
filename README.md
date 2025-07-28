@@ -55,7 +55,7 @@ class Jorge {
 <sub>Un bot multifunción para gestión de comunidades</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" width="60" />
+<img src="https://media.githubusercontent.com/media/microsoft/fluentui-emoji-animated/refs/heads/main/assets/Robot/animated/robot_animated.png" width="60" />
 <br>
 <strong>Servidor de Minecraft</strong>
 <br>
