@@ -84,7 +84,7 @@ class Jorge {
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoorgeMayoor&theme=midnight-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoorgeMayoor)](https://git.io/streak-stats)
 
 </div>
 
