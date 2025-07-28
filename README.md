@@ -84,7 +84,7 @@ class Jorge {
 <sub>Saga favorita</sub>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" width="60" />
+<img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Alien%20Monster.png?raw=true" width="60" />
 <br>
 <strong>Gaming</strong>
 <br>
@@ -114,7 +114,7 @@ class Jorge {
 <td align="center">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="60" />
 <br>
-<strong>Tecnología</strong>
+<strong>Informática</strong>
 <br>
 <sub>Mi pasión diaria</sub>
 </td>
