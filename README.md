@@ -19,9 +19,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=J0rge23YT&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile-views">
   
-  <img src="https://img.shields.io/github/followers/J0rge23YT?label=Seguidores&style=social" alt="followers">
+  <img src="https://img.shields.io/github/followers/JoorgeMayor?label=Seguidores&style=social" alt="followers">
   
-  <img src="https://img.shields.io/github/stars/J0rge23YT?label=Estrellas&style=social" alt="stars">
+  <img src="https://img.shields.io/github/stars/JoorgeMayoor?label=Estrellas&style=social" alt="stars">
 </div>
 
 <p align="center">
