@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=7520FF&center=true&vCenter=true&random=false&width=435&lines=%3C%F0%9F%91%8B+Hola%2C+Soy+Jorge+%2F%3E;%3C%F0%9F%92%BB+Tech+Explorer+%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=4000&pause=1000&color=7520FF&center=true&vCenter=true&random=false&width=435&lines=%3C%F0%9F%91%8B+Hola%2C+Soy+Jorge+%2F%3E;%3C%F0%9F%92%BB+Me+Gusta+La+Informática+%2F%3E)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px" />
 
@@ -44,24 +44,26 @@ class Jorge {
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" /> Proyectos en Desarrollo
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%">
-      <br>
-      <strong>Bot de Telegram</strong>
-      <br>
-      <sub>Un bot multifunción para gestión de comunidades</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://media2.giphy.com/media/j5QkLruSNyJONVFNZx/giphy.gif" width="100%">
-      <br>
-      <strong>Servidor de Minecraft</strong>
-      <br>
-      <sub>Servidor personalizado con plugins propios</sub>
-    </td>
-  </tr>
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="60" />
+<br>
+<strong>Bot de Telegram</strong>
+<br>
+<sub>Un bot multifunción para gestión de comunidades</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" width="60" />
+<br>
+<strong>Servidor de Minecraft</strong>
+<br>
+<sub>Servidor personalizado con plugins propios</sub>
+</td>
+</tr>
 </table>
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="35" /> Actualmente Aprendiendo
 
