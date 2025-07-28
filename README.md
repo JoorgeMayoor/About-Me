@@ -132,13 +132,7 @@ class Jorge {
 <br>
 <sub>Creando contenido</sub>
 </td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="60" />
-<br>
-<strong>Perros</strong>
-<br>
-<sub>Próximamente...</sub>
-</td>
+
 </tr>
 </table>
 
