@@ -74,7 +74,7 @@ class Jorge {
 
 <div align="center">
   
-| ![Star Wars](https://media0.giphy.com/media/3o7abBAEIlO4kWucQ8/giphy.gif) | ![Gaming](https://media1.giphy.com/media/UYt81fD5E8JVu/giphy.gif) | ![Anime](https://media4.giphy.com/media/QxHzTRigoD9HG/giphy.gif) | ![Pokemon](https://media4.giphy.com/media/W04QVzelTHsNW/giphy.gif) |
+| ![Star Wars](https://media0.giphy.com/media/3o7abBAEIlO4kWucQ8/giphy.gif) | ![Gaming](https://media1.giphy.com/media/UYt81fD5E8JVu/giphy.gif) | ![Anime](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJzOGhnaHFndGRvc3VuM3R5YjRtc3gwOGlvMXpsM3NqcHRoaGRxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif) | ![Pokemon](https://media4.giphy.com/media/W04QVzelTHsNW/giphy.gif) |
 |:---:|:---:|:---:|:---:|
 | Star Wars | Gaming | Anime | Pokémon |
 
